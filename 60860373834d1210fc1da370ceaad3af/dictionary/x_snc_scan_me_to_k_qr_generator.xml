@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4e6ebb8083111210fc1da370ceaad356" label="QR Generator" max_length="40" name="x_snc_scan_me_to_k_qr_generator" type="collection">
+        <element label="URL" max_length="1024" name="url_linkd" type="url"/>
+        <element label="URL" max_length="1024" name="url_insta" type="url"/>
+        <element label="Social Media" max_length="40" name="social_media" type="glide_list"/>
+        <element label="Image" max_length="255" name="image" type="user_image"/>
+        <element label="URL" max_length="1024" name="url_fb" type="url"/>
+    </element>
+</database>

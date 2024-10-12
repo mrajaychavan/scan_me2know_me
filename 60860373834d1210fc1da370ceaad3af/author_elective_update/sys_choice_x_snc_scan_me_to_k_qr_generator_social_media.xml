@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="social_media" table="x_snc_scan_me_to_k_qr_generator" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>social_media</element>
+            <name>x_snc_scan_me_to_k_qr_generator</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 22:30:53</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>social_media</sys_name>
+            <sys_package display_value="Scan Me To Know Me" source="x_snc_scan_me_to_k">60860373834d1210fc1da370ceaad3af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Scan Me To Know Me">60860373834d1210fc1da370ceaad3af</sys_scope>
+            <sys_update_name>sys_choice_x_snc_scan_me_to_k_qr_generator_social_media</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 22:30:53</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>social_media</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facebook</label>
+            <language>en</language>
+            <name>x_snc_scan_me_to_k_qr_generator</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 22:38:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 22:39:19</sys_updated_on>
+            <value>fb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>social_media</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Instagram</label>
+            <language>en</language>
+            <name>x_snc_scan_me_to_k_qr_generator</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 22:38:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 22:39:23</sys_updated_on>
+            <value>insta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>social_media</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Linkedin</label>
+            <language>en</language>
+            <name>x_snc_scan_me_to_k_qr_generator</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 22:38:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 22:39:26</sys_updated_on>
+            <value>lkin</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
